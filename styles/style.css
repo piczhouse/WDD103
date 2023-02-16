@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Lato&display=swap');
+
 #content {
     max-width: 1600px;
 
@@ -44,7 +46,7 @@ section {
 }
 body {
     background-color: #fcfbfb;
-    font-family: 'Roboto', sans-serif;   
+    font-family: 'Lato', Arial, sans-serif;   
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -54,7 +56,7 @@ h2 {
 }
 header {
     background-color:rgba(190, 231, 160, 0.7);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'oswald', Arial, sans-serif;
 }
 nav a:hover {
     background-color: black;
@@ -108,7 +110,7 @@ nav a {
 }
 .home-title {
     color: bisque;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Oswald',Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -117,7 +119,7 @@ h4  {
 }
 .msg h2 {
     color: azure;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Oswald', Arial, sans-serif;
 }
 .msg p  {
     color: bisque;
